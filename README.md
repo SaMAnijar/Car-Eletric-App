@@ -1,6 +1,6 @@
 # Aplicativo de Carros Elétricos
 
-![FOTO Aplicativo de Carros Elétricos](https://github.com/SaMAnijar/Car-Eletric-App/assets/128177565/55ac14ba-e150-4263-b624-921fbe6241aa)
+<img src="https://github.com/SaMAnijar/Car-Eletric-App/assets/128177565/7c93a23e-3625-4c53-84cc-71716b3c9683" width=50% height=50%>
 
 ## Descrição
 
